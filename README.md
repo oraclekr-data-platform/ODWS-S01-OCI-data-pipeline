@@ -20,7 +20,13 @@ Oracle Data Platform 워크샵에서 OCI Data Pipeline 부분은 OCI cloud nativ
 <img width="475" alt="0-00" src="https://github.com/oraclekr-data-platform/ODWS-S01-OCI-data-pipeline/assets/150219167/c90616af-746e-4662-baaf-df596293be55">
 <img src="https://github.com/oraclekr-data-platform/ODWS-S01-OCI-data-pipeline/assets/150219167/a7a17eee-ff22-42b9-b03d-fd9a02c9d422" height="250px"></p>
 
+
+![7-10](https://github.com/oraclekr-data-platform/ODWS-S01-OCI-data-pipeline/assets/150219167/7abb3229-a111-481c-879d-f216f60b94d1)
+
 ![0-0000](https://github.com/oraclekr-data-platform/ODWS-S01-OCI-data-pipeline/assets/150219167/c0f0bfc4-90b3-4837-8f71-4ca6a066491c)
+
+
+
 
 
  
