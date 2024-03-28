@@ -23,14 +23,15 @@ Oracle Data Platform 워크샵에서 OCI Data Pipeline 부분은 OCI cloud nativ
 
 ![7-10](https://github.com/oraclekr-data-platform/ODWS-S01-OCI-data-pipeline/assets/150219167/7abb3229-a111-481c-879d-f216f60b94d1)
 
-![0-0000](https://github.com/oraclekr-data-platform/ODWS-S01-OCI-data-pipeline/assets/150219167/c0f0bfc4-90b3-4837-8f71-4ca6a066491c)
 
+![0-0000](https://github.com/oraclekr-data-platform/ODWS-S01-OCI-data-pipeline/assets/150219167/c5811756-1c45-41c2-b235-0ac001f3822e)
 
 
 
 
  
-  ![0-0](https://github.com/oraclekr-data-platform/ODWS-S01-OCI-data-pipeline/assets/150219167/9cd6342e-39d3-402d-a8fa-c635c94b988f)
+ ![0-0](https://github.com/oraclekr-data-platform/ODWS-S01-OCI-data-pipeline/assets/150219167/8f605ef2-9ad0-461c-a331-aa1c4a8e5067)
+
  - 1. Jason파일을 Generate_msg.py로 OCI crawled_stream에 로딩함OCI Streaming
     
 - 2. enhancement FN (AI 한글 번역)을 생성해서 번역 후 enhanced _stream에 로딩함
@@ -39,4 +40,4 @@ Oracle Data Platform 워크샵에서 OCI Data Pipeline 부분은 OCI cloud nativ
     
 - 4. Converting FN(디코딩)을 생성 및 실행하면 decoded 데이터로 저장됨
     
-- 5. Jasonloader(SP) 생성 후 FN으로 object storage  ATP로 데이터 복제하는 REST API 실행함
+- 5. ATP 생성 후 Pipeline을 생성하면 object storage에서 ATP 테이블로 데이터 복제실행됨
